@@ -1,0 +1,116 @@
+body {
+
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+
+	color: #0f98f8;
+	font-family: 'Hind Vadodara', sans-serif;
+	padding-top: 3%;
+}
+
+
+
+p {
+
+	font-family: 'Hind Vadodara', sans-serif;
+	text-align: center;
+
+}
+
+
+.slider01 {
+
+	padding-top: 1%;
+}
+
+
+.grey {
+  background-color: #f7f7f9;
+  margin-top: 20px;
+  padding: 0px 0;
+}
+
+img.image {
+     margin: 0 auto;
+     display: block;
+ }
+
+
+.card-body {
+
+
+	text-align: center;
+}
+
+h3.parrafo  {
+
+	text-align: center;
+	color: #ffffff;
+} 
+
+p.parrafo  {
+
+	text-align: center;
+	color: #ffffff;
+}
+
+.column {
+
+     background-color: #136BA0;
+     border-radius: 8px;
+     margin-bottom: 2%;
+     margin-top: 2%;
+     padding: 2%;
+
+}
+
+.column-naranja {
+
+	background-color: #E53E14;
+     border-radius: 8px;
+     margin-bottom: 2%;
+     margin-top: 2%;
+     padding: 2%;
+}
+
+.column-verde {
+
+	 background-color: #1C9993;
+     border-radius: 8px;
+     margin-bottom: 2%;
+     margin-top: 2%;
+     padding: 2%;
+}
+
+.column-azul-claro {
+
+	 background-color: #84CBE7;
+     border-radius: 8px;
+     margin-bottom: 2%;
+     margin-top: 2%;
+     padding: 2%;
+}
+
+.column-azul-oscuro {
+
+	 background-color: #0DA4DD;
+     border-radius: 8px;
+     margin-bottom: 2%;
+     margin-top: 2%;
+     padding: 2%;
+}
+
+.column-rosado {
+
+	 background-color: #D95096;
+     border-radius: 8px;
+     margin-bottom: 2%;
+     margin-top: 2%;
+     padding: 2%;
+
+}
+
+
